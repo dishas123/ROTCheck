@@ -1,6 +1,6 @@
-# Carrot Classifier
+# Rot Check-A Carrot Classifier
 
-The **Carrot Classifier** is a machine learning-based web application that classifies images of carrots, determining whether they are suitable for packaging or not. This project uses a **Convolutional Neural Network (CNN)** model to process the images and make predictions. Users can upload carrot images via a simple web interface, and the application will return a classification based on the pre-trained model.
+**Rot Check** is a machine learning-based web application that classifies images of carrots, determining whether they are suitable for packaging or not. This project uses a **Convolutional Neural Network (CNN)** model to process the images and make predictions. Users can upload carrot images via a simple web interface, and the application will return a classification based on the pre-trained model.
 
 The goal of this project is to **automate the quality assurance process** for carrot packaging, reducing human error and improving efficiency. Additionally, the application learns from user feedback to improve its predictions over time.
 
