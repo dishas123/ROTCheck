@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rot Check
 
 **Rot Check** is a machine learning-based web application that classifies images of carrots, determining whether they are suitable for packaging or not. This project uses a **Convolutional Neural Network (CNN)** model to process the images and make predictions. Users can upload carrot images via a simple web interface, and the application will return a classification based on the pre-trained model.
@@ -26,3 +27,6 @@ The goal of this project is to **automate the quality assurance process** for ca
 4. After the classification, you will be asked to confirm if the result was correct. You can select whether the classification was correct or not.
 5. The application will learn from your feedback, and over time, its predictions will improve.
 
+=======
+# ROTCheck
+>>>>>>> fd4ea0b8d7f63b4510670e2b869a476803c1c6a8
