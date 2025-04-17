@@ -7,10 +7,11 @@ The goal of this project is to **automate the quality assurance process** for ca
 
 ## Steps to run this project :
 1. Clone the repo by opening a new terminal window and using this command : git clone https://github.com/dishas123/ROTCheck.git
-2. Then navigate to the cloned project directory and type the following commands :
+2. Change the path of the dataset to the dataset path on your system.
+3. Then navigate to the cloned project directory and type the following commands :
    pip install tensorflow numpy pillow flask
    python carrot_classifier.py
-3. Now, you can view the application on your browser.
+4. Now, you can view the application on your browser.
 
 ## Features
 
