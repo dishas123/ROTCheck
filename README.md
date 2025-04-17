@@ -5,6 +5,13 @@
 
 The goal of this project is to **automate the quality assurance process** for carrot packaging, reducing human error and improving efficiency. Additionally, the application learns from user feedback to improve its predictions over time.
 
+## Steps to run this project :
+1. Clone the repo by opening a new terminal window and using this command : git clone https://github.com/dishas123/ROTCheck.git
+2. Then navigate to the cloned project directory and type the following commands :
+   pip install tensorflow numpy pillow flask
+   python carrot_classifier.py
+3. Now, you can view the application on your browser.
+
 ## Features
 
 - **Image Upload**: Users can upload images of carrots.
@@ -18,6 +25,7 @@ The goal of this project is to **automate the quality assurance process** for ca
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Flask
 - **Machine Learning**: Python, TensorFlow (CNN Model)
+
 
 ## How to Use
 
